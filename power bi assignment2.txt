@@ -1,0 +1,26 @@
+Analysis Techniques:
+Data cleaning and preparation
+Descriptive statistics
+Data visualization using POWER BI
+Key Findings:
+Summary of survey results
+Insights into current practices and challenges
+Preferences of data professionals
+Conclusion:
+Implications of the study
+Limitations and future research
+References:
+
+In this case study, the use of POWER BI in conducting a survey on datasets is explored. The study begins with an introduction that provides the background and significance of the research, outlines the objectives and research questions, and sets the context for the study.
+
+The survey methodology section discusses how participants were selected, the design of the questionnaire, and how the survey was distributed. It also includes information about the response rate and demographics of the participants.
+
+The data collection section provides an overview of the collected dataset, including details about the data sources and the structure of the dataset.
+
+The analysis techniques section explains how the data was cleaned and prepared for analysis, and it outlines the use of descriptive statistics and data visualization techniques using POWER BI.
+
+The key findings section summarizes the results of the survey, highlighting insights into current practices and challenges faced by data professionals, as well as their preferences.
+
+The conclusion discusses the implications of the study, acknowledges its limitations, and suggests directions for future research.
+
+The case study demonstrates the practical application of POWER BI in analyzing survey data, offering valuable insights that can inform decision-making in the field of data management and analysis.
